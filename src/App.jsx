@@ -29,7 +29,7 @@ function App() {
    
 
     <div>
-      <TransactionHistory transactions={transactions}/>
+     <TransactionHistory items={transactions} />
     </div>
      </>
   );

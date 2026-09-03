@@ -111,3 +111,22 @@ code {
 }
 
 
+.transaction-history {
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+
+.friend-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;   
+  padding: 0;
+}
+
+.avatar {
+  display: block;
+  margin: 0 auto;
+}
