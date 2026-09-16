@@ -1,0 +1,35 @@
+.statistics {
+  width: 680px;
+  margin: 40px auto;
+  background-color: #ffffff;
+
+  overflow: hidden;
+}
+
+.title{
+    color: rgb(47, 51, 50);
+    font-size: 50px;
+}
+
+
+.stat-list{
+    list-style: none;
+    
+    display: flex;
+
+}
+
+.item{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 38px;
+
+}
+
+.stat-list .label{
+    padding-bottom: 15px;
+
+}
+
